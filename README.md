@@ -19,3 +19,7 @@ Time taken: 2.000608821s
 
 ## Test Result
 ![rust-singleflight-with-notify](./images/test-latency.png)
+
+
+## Notes
+This rust example was written for [Rust Tokio Notify Implement SingleFlight Based on My Scenario](https://medium.com/rustaceans/singleflight-scenario-implementation-based-on-tokio-notify-b70e7697d6e8).
